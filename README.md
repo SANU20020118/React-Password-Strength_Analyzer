@@ -86,10 +86,14 @@ secure-password-animation/
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
+---
+
 ### 📌 Prerequisites
 
 -   Node.js (LTS recommended)
 -   npm (Node Package Manager) or yarn
+
+---
 
 ### 📥 Installation
 
@@ -107,6 +111,8 @@ Follow these instructions to get a copy of the project up and running on your lo
     yarn install
     ```
 
+    ---
+
 ### ▶️ Running the Application
 
 In the project directory, you can run:
@@ -118,6 +124,8 @@ yarn start
 This command runs the app in development mode. Open http://localhost:3000 to view it in your browser. The page will reload when you make changes.
 ```
 
+---
+
 ### 🧪 Usage
 
 Once the application is running:
@@ -126,6 +134,8 @@ Navigate to http://localhost:3000 in your web browser.
 Locate the password input field.
 Type a password and observe the real-time visual feedback and animations indicating its strength.
 The integrated videos (good.mp4, strong.mp4) are likely triggered or used as part of this visual feedback, demonstrating different password strength levels.
+
+---
 
 ### 🎥 Demo Videos
 
@@ -136,6 +146,8 @@ good.mp4 (Click to download/view)
 
 Strong Password Animation:
 strong.mp4 (Click to download/view)
+
+---
 
 ### 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
@@ -148,8 +160,12 @@ Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
+---
+
 ### 📄 License
 Distributed under the MIT License. See LICENSE for more information.
+
+---
 
 ### 👤 Author
 SANU KUMAR DWIVEDI
